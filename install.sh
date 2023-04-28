@@ -1,2 +1,1 @@
-apt install git neovim neofetch whois postgresql postgresql-contrib tmux -y
-
+apt install git git-lfs neovim neofetch whois postgresql postgresql-contrib tmux -y
